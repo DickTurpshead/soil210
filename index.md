@@ -7,13 +7,13 @@ layout: default
 
 {% include figure.html img="HD_portrait.jpg" alt="portrait of Hanwen Dong" caption="portrait of Hanwen Dong (credit: Joe Pallen)" width="75%" %}
 
-My name is Hanwen Dong and I am the [liaison librarian for College of Agricultural & Life Sciences](https://www.lib.uidaho.edu/about/liaisons.html) at U of I. I welcome you to contact me or the library to ask for help.
+My name is Hanwen Dong and I am the <a href="https://www.lib.uidaho.edu/about/liaisons.html" target="_blank" rel="noopener">liaison librarian for College of Agricultural & Life Sciences</a>. I welcome you to contact me or the library to ask for help.
 <div class="row">
   <div class="col-sm-6">
     <div class="card">
            <h5 class="card-header">Hanwen Dong</h5> 
       <div class="card-body">
-        <p class="card-text">Contact me if you have any questions about this website or finding resources related to Animal, Veterinary and Food Sciences.<br />
+        <p class="card-text">Contact me if you have any questions about this website or finding resources related to common food in the U.S.<br />
           <br /> 
 </p>
         <p> </p>
@@ -39,20 +39,20 @@ My name is Hanwen Dong and I am the [liaison librarian for College of Agricultur
  <p> 
 </p>
 ### What is This Website for?
-I created this website for students enrolled in Animal and Veterinary Science 463 *Growth and Lactation* class. The assignment requires identifying a topic for current topic debate and gathering research information (consumer’s perception of the subject as well as scientific-based knowledge) that either supports or refutes the issue. Possible topics include: 
-- Use of bST (growth hormone) to increase milk production
-- Low-fat vs. whole milk consumption
-- Organic vs. conventional farming
-- Consumption of animal milk vs. plant-based milk
-- Antibiotic use on farm
-- Consumption of pasteurized milk vs. raw milk
-- Contribution of dairy industry to greenhouse gases
-- Separation of dairy cow from calf
+I created this website for students enrolled in SOIL 210 *Food Systems and Healthy Lifestyles* class. The assignment requires finding information sources on a common food in the U.S in terms of the historical production practices, economics, consumer acceptance, etc. The list of foods include: 
+- Banana
+- Coffee
+- Sugar 
+- Chicken – packaged not whole
+- Avocados
+- Vegetable oil or Crisco
+- Milk 
+
 
 ### Learning Outcomes
 After reviewing the contents of this guide, you will be able to:
 1. Apply Boolean logic to search strategy
-2. Select journals and databases for research in dairy science
+2. Select journals and databases for research in agriculture/food science
 3. Find popular and scholarly sources on chosen topic
 4. Evaluate and revise search strategy based on search results
 
