@@ -99,7 +99,7 @@ Boolean logic uses Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
          <tr>
             <th style="text-align:Center">?</th>
             <td style="text-align:Left">Results include words with alternative spellings</td>
-            <td style="text-align:Left">“pasteuri?ed milk”</td>
+            <td style="text-align:Left">“pasteuri?ed milk” [for pasteurised milk and pasteurized milk]</td>
          </tr>
           <tr>
             <th style="text-align:Center">( )</th>
