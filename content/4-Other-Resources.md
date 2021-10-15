@@ -4,7 +4,7 @@ nav: true
 ---
 
 ## Databases
-In addition to <a href="https://uidaho.idm.oclc.org/login?url=http://search.ebscohost.com/login.asp?profile=ehost&defaultdb=aph&defaultdb=f5h&defaultdb=ufh" target="_blank" rel="noopener">Academic Search Premier</a> and <a href="https://uidaho.idm.oclc.org/login?url=http://webofknowledge.com/UA" target="_blank" rel="noopener">Web of Science</a>, here are a few more useful databases to find scholarly articles:
+In addition to <a href="https://uidaho.idm.oclc.org/login?url=http://search.ebscohost.com/login.asp?profile=ehost&defaultdb=aph&defaultdb=f5h&defaultdb=ufh" target="_blank" rel="noopener">Academic Search Premier</a> and <a href="https://www-webofscience-com.uidaho.idm.oclc.org/wos/alldb/basic-search" target="_blank" rel="noopener">Web of Science</a>, here are a few more useful databases to find scholarly articles:
 - <a href="https://uidaho.idm.oclc.org/login?url=http://search.ebscohost.com/login.asp?profile=ehost&defaultdb=agr" target="_blank" rel="noopener">Agricola (Ebsco)</a>
   - Over 4.8 million citations to journal articles, monographs, theses, patents, software, audio-visual materials, and technical reports. Covers agriculture, plant and animal sciences, forestry, entomology, soil and water resources, and food and nutrition.
 - <a href="https://uidaho.idm.oclc.org/login?url=https://www.cabdirect.org/" target="_blank" rel="noopener">CAB Direct</a>
@@ -24,17 +24,17 @@ In addition to <a href="https://uidaho.idm.oclc.org/login?url=http://search.ebsc
   - <a href="http://www.senate.gov/index.htm" target="_blank" rel="noopener">U. S. Senate</a>
   - <a href="https://www.whitehouse.gov/" target="_blank" rel="noopener">The White House</a>
 
-- Other Resources
-  - <a href="https://www.congress.gov/" target="_blank" rel="noopener">Congress.gov</a>
-   - Information on actions of the United States Congress and news about federal advocacy and activism.
-  - <a href="http://www.fao.org/" target="_blank" rel="noopener">FAO</a>
-   - Food and Agriculture Organization of the United Nations
-  - <a href="http://www.fao.org/infoods/en/" target="_blank" rel="noopener">FAO INFOODS</a>
-   - INFOODS is the International Network of Food Data Systems. Provided by the Food and Agriculture Organization of the United Nations.
-  - <a href="http://www.fda.gov/" target="_blank" rel="noopener">U.S. FDA</a>
-   - U.S. Food and Drug Administration - United States Department of Health and Human Services
-  - <a href="https://www.nass.usda.gov/" target="_blank" rel="noopener">USDA National Agricultural Statistics</a>Service
-   - Contains statistics collected through the national Census of Agriculture and other programs that details the nation's farm and production data.
+* Other Resources
+    + <a href="https://www.congress.gov/" target="_blank" rel="noopener">Congress.gov</a>
+        - Information on actions of the United States Congress and news about federal advocacy and activism.
+    + <a href="http://www.fao.org/" target="_blank" rel="noopener">FAO</a>
+        - Food and Agriculture Organization of the United Nations
+    + <a href="http://www.fao.org/infoods/en/" target="_blank" rel="noopener">FAO INFOODS</a>
+        - INFOODS is the International Network of Food Data Systems. Provided by the Food and Agriculture Organization of the United Nations.
+    + <a href="http://www.fda.gov/" target="_blank" rel="noopener">U.S. FDA</a>
+        - U.S. Food and Drug Administration - United States Department of Health and Human Services
+    + <a href="https://www.nass.usda.gov/" target="_blank" rel="noopener">USDA National Agricultural Statistics Service</a>
+        - Contains statistics collected through the national Census of Agriculture and other programs that details the nation's farm and production data.
 
 ## Print Books
 If you are on campus, you can use stack browsing as a viable search strategy to find print books on a topic. That is to visit the library and locate the physical bookshelves to browse the book collections with a particular subject focus area using Library of Congress Call Numbers. For example, if you are interested in food crops, you would want to look for call numbers that start with SB175-177. Other relevant call numbers include: 
@@ -83,7 +83,7 @@ If you are on campus, you can use stack browsing as a viable search strategy to 
 ## Government Documents
 When searching the library catalog, you can filter the results by `Government Documents` under `Resource Type`. These documents are located on the library basement. You can click <a href="https://www.lib.uidaho.edu/find/govdocs/" target="_blank" rel="noopener">this link</a> or email <a href = "mailto: rattebur@uidaho.edu">Rami Attebury</a> to learn more about how to access government documents. 
 
-You can use Google to search for government documents as well. Add `site:gov` at the end of your keyword search terms will yield results from government webpages. For instance, if you are looking for regulations of the sugar changed to meet demand or changes in the industry, you can search for *sugar AND regulation`* site:gov*. Note that the quality and objectivity of the information on .gov sites can vary widely.
+You can use Google to search for government documents as well. Add `site:gov` at the end of your keyword search terms will yield results from government webpages. For instance, if you are looking for regulations of the sugar changed to meet demand or changes in the industry, you can search for *sugar AND regulation\* site:gov*. Note that the quality and objectivity of the information on .gov sites can vary widely.
 
 ## Citation
 Remember to cite your sources and format them according to the <a href="https://style.mla.org/works-cited/works-cited-a-quick-guide/" target="_blank" rel="noopener">MLA style</a>. 
