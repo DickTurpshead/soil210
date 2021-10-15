@@ -7,7 +7,7 @@
 title: SOIL210
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Font Awesome 5 free, https://fontawesome.com/icons?d=gallery&m=free
-# some options: fas fa-cheese; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open
+# some options: fas fa-cheese; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open; fa-coffee
 title-icon: fas fa-coffee
 # description and keywords for meta tags
 description: "This website provides research support for students enrolled in SOIL 210 for the annotated bibliography assignment."
