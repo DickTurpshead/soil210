@@ -19,7 +19,7 @@ My name is Hanwen Dong and I am the <a href="https://www.lib.uidaho.edu/about/li
         <p> </p>
         <a href = "mailto: hanwendong@uidaho.edu" class="btn bg-warning mb-3">Email</a>
         <a href = "tel:208-885-2515" class="btn bg-warning mb-3">Call 208-885-2515</a>
-        <a href = "https://uidaho.co1.qualtrics.com/jfe/form/SV_1GJiDTJ7po0bDk9?topic=Agricultural+%26amp%3B+Life+Sciences&person=Hanwen+Dong&email=hanwendong%40uidaho.edu" class="btn bg-warning mb-3">Schedule Appointment</a>
+        <a href = "https://uidaho.co1.qualtrics.com/jfe/form/SV_1GJiDTJ7po0bDk9?topic=Agricultural+%26amp%3B+Life+Sciences&person=Hanwen+Dong&email=hanwendong%40uidaho.edu" class="btn bg-warning mb-3" target="_blank" rel="noopener">Schedule Appointment</a>
       </div>
     </div>
   </div>
@@ -30,7 +30,7 @@ My name is Hanwen Dong and I am the <a href="https://www.lib.uidaho.edu/about/li
         <p class="card-text">Contact the library if you have any questions about using the library, finding resources for research papers and projects, creating effective research strategies, managing citations, etc.</p>
         <a href = "mailto: libref@uidaho.edu" class="btn bg-warning mb-3">Email</a>
         <a href = "tel:208-885-6584" class="btn bg-warning mb-3">Call 208-885-6584</a>
-        <a href = "https://www.lib.uidaho.edu/help/chat.html" class="btn bg-warning mb-3">24/7 Chat</a>
+        <a href = "https://www.lib.uidaho.edu/help/chat.html" class="btn bg-warning mb-3" target="_blank" rel="noopener">24/7 Chat</a>
         <a href = "sms:208-449-0841" class="btn bg-warning mb-3">Text 208-449-0841</a>
       </div>
     </div>
