@@ -16,6 +16,8 @@ In addition to <a href="https://uidaho.idm.oclc.org/login?url=http://search.ebsc
 
 ## Websites
 
+Below is a list of websites that are helpful for this assignment.
+
 - Public Policy Resources
   - <a href="https://www.govtrack.us/" target="_blank" rel="noopener">Govtrack.us</a>
   - <a href="https://www.idaho.gov/" target="_blank" rel="noopener">Official Idaho Website</a>
