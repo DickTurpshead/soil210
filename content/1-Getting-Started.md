@@ -24,9 +24,9 @@ What are the differences among popular, scholarly, and gray literature? Below ar
     + Shorter articles with broad overviews of topics
     + Published to inform, entertain, or persuade
     + Possibly a “suggested reading” list, usually no bibliography
-    + Authors are often journalists or staff writers. No credentials are provided
+    + Authors are often journalists or staff writers; No credentials are provided
     + Articles are not evaluated by experts in the field, but by editors on staff
-* Scholarly Journals (peer-reviewed or refereed
+* Scholarly Journals (peer-reviewed or refereed)
     + Longer articles, providing in-depth analysis of topics
     + Publish original research in a field
     + Bibliography provided to document research
